@@ -1,0 +1,9 @@
+#include<iostream>
+using name space std;
+int main()
+{
+  int count = 0;
+  count++;
+  cout<<'My count is "<<count<<endl;
+  return 0;
+}
